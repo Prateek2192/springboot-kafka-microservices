@@ -2,6 +2,7 @@
 springboot-kafka-microservices
 
 **CURL to trigger order event from POSTMAN:**
+
 curl --location 'http://localhost:8080/api/v1/orders' \
 --header 'Content-Type: application/json' \
 --data '{
