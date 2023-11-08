@@ -1,0 +1,9 @@
+/.idea/
+/base-domains/target/
+/email-service/target/
+/stock-service/target/
+/order-service/target/
+/stock-service/.idea/
+/base-domains/.idea/
+/email-service/.idea/
+/order-service/.idea/
